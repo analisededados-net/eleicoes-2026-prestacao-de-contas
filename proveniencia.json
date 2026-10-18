@@ -1,0 +1,26 @@
+{
+  "copiado_em": "2026-10-18T17:54:22.484352+00:00",
+  "copias_identicas": true,
+  "arquivos": [
+    {
+      "arquivo": "filtrar.py",
+      "origem": "/home/lorenzo/projetos/analisededados/processamento-prestacao-contas/filtrar.py",
+      "sha256": "2aae7b4990b1b46130e464a23ac58624cd382061fed18aa630cdab222e4da175"
+    },
+    {
+      "arquivo": "gerar_json.py",
+      "origem": "/home/lorenzo/projetos/analisededados/processamento-prestacao-contas/gerar_json.py",
+      "sha256": "92342bc5b2f67d2204e2aa9fabfd695c8874849db65d7a6c5712cb15e5c2a5c1"
+    },
+    {
+      "arquivo": "test_filtrar.py",
+      "origem": "/home/lorenzo/projetos/analisededados/processamento-prestacao-contas/test_filtrar.py",
+      "sha256": "84f2cc9205ff1cf8439dd0cce2593d67d93e54c1377c1d2a5dbc0017dec6cc21"
+    },
+    {
+      "arquivo": "test_gerar_json.py",
+      "origem": "/home/lorenzo/projetos/analisededados/processamento-prestacao-contas/test_gerar_json.py",
+      "sha256": "f4bb594032ba60e85bd37683eb4515aae1ebd812a4babf534f793173e14efdca"
+    }
+  ]
+}

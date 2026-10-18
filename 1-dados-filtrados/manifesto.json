@@ -1,0 +1,199 @@
+{
+  "gerado_em": "2026-10-18T16:07:35.659220+00:00",
+  "origem": "/mnt/multimidia/Dados/politica/eleicoes-2026/prestacao-de-contas",
+  "destino": "/mnt/multimidia/Dados/politica/eleicoes-2026/prestacao-de-contas-filtrada",
+  "candidatos": {
+    "lula": "LUIZ INACIO LULA DA SILVA",
+    "flavio-bolsonaro": "FLAVIO NANTES BOLSONARO"
+  },
+  "identificadores": {
+    "lula": {
+      "SQ_CANDIDATO": [
+        "280002542548"
+      ],
+      "SQ_PRESTADOR_CONTAS": [
+        "6823366845"
+      ],
+      "NR_CNPJ_PRESTADOR_CONTA": [
+        "68475818000102"
+      ]
+    },
+    "flavio-bolsonaro": {
+      "SQ_CANDIDATO": [
+        "280002551544"
+      ],
+      "SQ_PRESTADOR_CONTAS": [
+        "6831481040"
+      ],
+      "NR_CNPJ_PRESTADOR_CONTA": [
+        "68581907000125"
+      ]
+    }
+  },
+  "escopo": "Contas de titularidade dos candidatos; todos os turnos disponíveis, sem agregação.",
+  "exclusoes": [
+    "Contas gerais de órgãos partidários, não atribuíveis exclusivamente aos candidatos.",
+    "Recortes estaduais e BR: utilizados somente os consolidados BRASIL para evitar duplicação."
+  ],
+  "csv_saida": {
+    "encoding": "utf-8",
+    "delimitador": ";",
+    "colunas_e_valores": "preservados"
+  },
+  "originais_inalterados": true,
+  "sha256_origens_antes": {
+    "prestacao_de_contas_eleitorais_candidatos_2026/receitas_candidatos_2026_BRASIL.csv": "59712ad9ecd2868b2803cd0901d39b9be34b64b10811fe8e3504792ec047366b",
+    "prestacao_de_contas_eleitorais_candidatos_2026/despesas_contratadas_candidatos_2026_BRASIL.csv": "fc5730bb22a7af9b739c0357e4c118a829f5d4bf01184e74fb4808d92e6f497f",
+    "despesa_documento_2026/despesa_candidato_documento_2026_BRASIL.csv": "55698f662318a2cc259665ce73e00d40792223ff8a96c2efa05e19d9b2575a56",
+    "receita_documento_2026/receita_candidato_documento_2026_BRASIL.csv": "bdfe77d3cb0c18016eb4f26eb46026042baed6adf20675b39e823ed38d22ad24",
+    "extrato_bancario_candidato_2026/extrato_bancario_candidato_2026.csv": "4efbd0cc24aca4e42f7429bf73df4c9e3c59a5bde681ee05accb49058fcca485",
+    "prestacao_de_contas_eleitorais_candidatos_2026/despesas_pagas_candidatos_2026_BRASIL.csv": "16add2aba3d2466b7a04e6b9d40955ce1c16c29bb1a0025d77b87b0b95541e8f",
+    "prestacao_de_contas_eleitorais_candidatos_2026/receitas_candidatos_doador_originario_2026_BRASIL.csv": "5607ba02c15540c10946d6a0e112f061d1af27ab0bf8fd763a8ee20e8e66f4bb",
+    "CNPJ_campanha_2026/cnpj_candidatos_2026.txt": "aa8c109a4128d63cf8b2b9318cd937cccc4e10f1e82eb15528fa319d6b009b1d"
+  },
+  "sha256_origens_depois": {
+    "prestacao_de_contas_eleitorais_candidatos_2026/receitas_candidatos_2026_BRASIL.csv": "59712ad9ecd2868b2803cd0901d39b9be34b64b10811fe8e3504792ec047366b",
+    "prestacao_de_contas_eleitorais_candidatos_2026/despesas_contratadas_candidatos_2026_BRASIL.csv": "fc5730bb22a7af9b739c0357e4c118a829f5d4bf01184e74fb4808d92e6f497f",
+    "despesa_documento_2026/despesa_candidato_documento_2026_BRASIL.csv": "55698f662318a2cc259665ce73e00d40792223ff8a96c2efa05e19d9b2575a56",
+    "receita_documento_2026/receita_candidato_documento_2026_BRASIL.csv": "bdfe77d3cb0c18016eb4f26eb46026042baed6adf20675b39e823ed38d22ad24",
+    "extrato_bancario_candidato_2026/extrato_bancario_candidato_2026.csv": "4efbd0cc24aca4e42f7429bf73df4c9e3c59a5bde681ee05accb49058fcca485",
+    "prestacao_de_contas_eleitorais_candidatos_2026/despesas_pagas_candidatos_2026_BRASIL.csv": "16add2aba3d2466b7a04e6b9d40955ce1c16c29bb1a0025d77b87b0b95541e8f",
+    "prestacao_de_contas_eleitorais_candidatos_2026/receitas_candidatos_doador_originario_2026_BRASIL.csv": "5607ba02c15540c10946d6a0e112f061d1af27ab0bf8fd763a8ee20e8e66f4bb",
+    "CNPJ_campanha_2026/cnpj_candidatos_2026.txt": "aa8c109a4128d63cf8b2b9318cd937cccc4e10f1e82eb15528fa319d6b009b1d"
+  },
+  "sha256_saidas": {
+    "flavio-bolsonaro/CNPJ_campanha_2026/cnpj_candidatos_2026.txt": "90b7ac5ddbcfbb6853ba8c07520ef8e64d3e08f55d273002a9e5daedc575d627",
+    "flavio-bolsonaro/despesa_documento_2026/despesa_candidato_documento_2026_BRASIL.csv": "952d82388ac15a15251890f6ce4a1e893ebb91e6e1b343068de50cca6d0b4720",
+    "flavio-bolsonaro/extrato_bancario_candidato_2026/extrato_bancario_candidato_2026.csv": "6d23ebbaebec58929b4e6a0c0837ddf04a76bece81a691ad32619c6711473ef3",
+    "flavio-bolsonaro/prestacao_de_contas_eleitorais_candidatos_2026/despesas_contratadas_candidatos_2026_BRASIL.csv": "76c842bbb38851cf1b5ecc9bc1c36104f2131a8757aee2d2774ddc836c3931e7",
+    "flavio-bolsonaro/prestacao_de_contas_eleitorais_candidatos_2026/despesas_pagas_candidatos_2026_BRASIL.csv": "8662c86534dd50a1ec6e210c206b06e6c7294509919ff201281d9daf0219763d",
+    "flavio-bolsonaro/prestacao_de_contas_eleitorais_candidatos_2026/receitas_candidatos_2026_BRASIL.csv": "518a35bf1715fbc2f3bd8fdcbd1bb9a2c2cf2c8ead46bfbe2c46037111f11b70",
+    "flavio-bolsonaro/prestacao_de_contas_eleitorais_candidatos_2026/receitas_candidatos_doador_originario_2026_BRASIL.csv": "6e2079b2d60ee33256e9bbc0badabce779a5c6e28e9a64e534996d63ec78e0c7",
+    "flavio-bolsonaro/receita_documento_2026/receita_candidato_documento_2026_BRASIL.csv": "64e385c213cc047f5105d882e49e9d95ff87972cdcb117c72f5b9c628d977812",
+    "lula/CNPJ_campanha_2026/cnpj_candidatos_2026.txt": "5cfe26d8dc62196b2bfaad0f8e0be19095ad724adca214d273ccb0c9bee7fd1a",
+    "lula/despesa_documento_2026/despesa_candidato_documento_2026_BRASIL.csv": "952d82388ac15a15251890f6ce4a1e893ebb91e6e1b343068de50cca6d0b4720",
+    "lula/extrato_bancario_candidato_2026/extrato_bancario_candidato_2026.csv": "1e21e5730c41498342db14497085387541903c99a8e100542dd214bcaed6c183",
+    "lula/prestacao_de_contas_eleitorais_candidatos_2026/despesas_contratadas_candidatos_2026_BRASIL.csv": "33912bbbfd57b3ca59e61490db11d468f376713c5842ba8111a7ff385c92a73d",
+    "lula/prestacao_de_contas_eleitorais_candidatos_2026/despesas_pagas_candidatos_2026_BRASIL.csv": "97d78832dc23575b534fdf3b22d9184777190a2657184773456d57e9d2465fee",
+    "lula/prestacao_de_contas_eleitorais_candidatos_2026/receitas_candidatos_2026_BRASIL.csv": "59db7fb7720107067274ef3a87b2d8236bf909df114fd5bc0ff726565e934923",
+    "lula/prestacao_de_contas_eleitorais_candidatos_2026/receitas_candidatos_doador_originario_2026_BRASIL.csv": "7376dcc467df35f40a5eea7279bf6bc924828aa03c4091ff52dbc7531ba5c4a2",
+    "lula/receita_documento_2026/receita_candidato_documento_2026_BRASIL.csv": "64e385c213cc047f5105d882e49e9d95ff87972cdcb117c72f5b9c628d977812"
+  },
+  "arquivos": [
+    {
+      "origem": "prestacao_de_contas_eleitorais_candidatos_2026/receitas_candidatos_2026_BRASIL.csv",
+      "registros_lidos": 181040,
+      "selecionados": {
+        "lula": 622,
+        "flavio-bolsonaro": 573
+      },
+      "turnos": {
+        "lula": {
+          "2": 622
+        },
+        "flavio-bolsonaro": {
+          "2": 573
+        }
+      },
+      "criterio": "nome completo do titular"
+    },
+    {
+      "origem": "prestacao_de_contas_eleitorais_candidatos_2026/despesas_contratadas_candidatos_2026_BRASIL.csv",
+      "registros_lidos": 1044300,
+      "selecionados": {
+        "lula": 738,
+        "flavio-bolsonaro": 330
+      },
+      "turnos": {
+        "lula": {
+          "2": 738
+        },
+        "flavio-bolsonaro": {
+          "2": 330
+        }
+      },
+      "criterio": "nome completo do titular"
+    },
+    {
+      "origem": "despesa_documento_2026/despesa_candidato_documento_2026_BRASIL.csv",
+      "registros_lidos": 48025,
+      "selecionados": {
+        "lula": 0,
+        "flavio-bolsonaro": 0
+      },
+      "turnos": {
+        "lula": {},
+        "flavio-bolsonaro": {}
+      },
+      "criterio": "nome completo do titular"
+    },
+    {
+      "origem": "receita_documento_2026/receita_candidato_documento_2026_BRASIL.csv",
+      "registros_lidos": 13994,
+      "selecionados": {
+        "lula": 0,
+        "flavio-bolsonaro": 0
+      },
+      "turnos": {
+        "lula": {},
+        "flavio-bolsonaro": {}
+      },
+      "criterio": "nome completo do titular"
+    },
+    {
+      "origem": "extrato_bancario_candidato_2026/extrato_bancario_candidato_2026.csv",
+      "registros_lidos": 265519,
+      "selecionados": {
+        "lula": 165,
+        "flavio-bolsonaro": 56
+      },
+      "turnos": {
+        "lula": {},
+        "flavio-bolsonaro": {}
+      },
+      "criterio": "nome completo do titular"
+    },
+    {
+      "origem": "prestacao_de_contas_eleitorais_candidatos_2026/despesas_pagas_candidatos_2026_BRASIL.csv",
+      "registros_lidos": 801556,
+      "selecionados": {
+        "lula": 457,
+        "flavio-bolsonaro": 263
+      },
+      "turnos": {
+        "lula": {
+          "2": 457
+        },
+        "flavio-bolsonaro": {
+          "2": 263
+        }
+      },
+      "criterio": "SQ_PRESTADOR_CONTAS"
+    },
+    {
+      "origem": "prestacao_de_contas_eleitorais_candidatos_2026/receitas_candidatos_doador_originario_2026_BRASIL.csv",
+      "registros_lidos": 296299,
+      "selecionados": {
+        "lula": 10893,
+        "flavio-bolsonaro": 9091
+      },
+      "turnos": {
+        "lula": {
+          "2": 10893
+        },
+        "flavio-bolsonaro": {
+          "2": 9091
+        }
+      },
+      "criterio": "SQ_PRESTADOR_CONTAS"
+    },
+    {
+      "origem": "CNPJ_campanha_2026/cnpj_candidatos_2026.txt",
+      "selecionados": {
+        "lula": 1,
+        "flavio-bolsonaro": 1
+      },
+      "criterio": "CNPJ do titular; trailer recalculado conforme leiaute TSE"
+    }
+  ]
+}
